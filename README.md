@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Travel Website**
 
-- 🌱 I’m currently learning **JavaScript and DSA**
+- 🌱 I’m currently learning **MERN and DSA**
 
 - 📫 Reach me at : **11gargisingh@gmail.com**
 
